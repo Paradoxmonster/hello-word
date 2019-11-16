@@ -1,2 +1,1 @@
-# hello-word
-第一个储存库哦
+I want to learn C Primer plus
